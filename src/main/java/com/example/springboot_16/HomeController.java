@@ -15,8 +15,5 @@ public class HomeController {
         return "page2";
     }
 
-    @RequestMapping("/3")
-    public String page3(){
-        return "page3";
-    }
+
 }
